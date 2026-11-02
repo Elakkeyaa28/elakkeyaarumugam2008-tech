@@ -20,30 +20,7 @@ Driven by curiosity and a passion for learning, I strive to build **practical so
 
 ## Tech Stack
 
-### Languages
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css&theme=dark" />
 
-### Frontend
-<img src="https://skillicons.dev/icons?i=react,nextjs,vite&theme=dark" />
-
-### Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
-
-### Database
-<img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark&v=2" />
-
-### Development Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
-&nbsp;
-<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
-<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
-<img src="https://img.shields.io/badge/Antigravity-1A1A2E?style=for-the-badge&logo=google&logoColor=white" />
-
-## LeetCode Status
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-Elakkeya-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Elakkeya/)
-
-<img src="https://leetcard.jacoblin.cool/Elakkeya?theme=dark&font=Baloo%202&ext=heatmap" />
 
 
 
